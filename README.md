@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Aryan Pandey</h1>
 <h3 align="center">A passionate tech explorer</h3>
-<img align= "right" alt="Coding" width="400" src="https://s03.sgp1.cdn.digitaloceanspaces.com/sites/158/orig-logo_1605684961.gif">
+<img align= "right" alt="Coding" width="400" src="https://i.gifer.com/5eKX.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanpandey1507&label=Profile%20views&color=0e75b6&style=flat" alt="aryanpandey1507" /> </p>
 
