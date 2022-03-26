@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanpandey1507&label=Profile%20views&color=0e75b6&style=flat" alt="aryanpandey1507" /> </p>
 
-<p align="left"> <a href="https://twitter.com/fetch_aryan_twt" target="blank"><img src="https://img.shields.io/twitter/follow/fetch_aryan_twt?logo=twitter&style=for-the-badge" alt="fetch_aryan_twt" /></a> </p>
+<p align="left"> <a href="https://twitter.com/fetch_aryan_twt" target="blank"><img src="https://img.shields.io/twitter/follow/twt_aryanpandey?logo=twitter&style=for-the-badge" alt="fetch_aryan_twt" /></a> </p>
 
 - 🌱 I’m currently learning **Devops**
 
