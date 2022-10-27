@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanpandey1507&label=Profile%20views&color=0e75b6&style=flat" alt="aryanpandey1507" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sudoisAryan" target="blank"><img src="https://img.shields.io/twitter/follow/sudoisAryan?logo=twitter&style=for-the-badge" alt="sudoisAryan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sudoisAryan" target="blank"><img src="https://img.shields.io/twitter/follow/__aryanp?logo=twitter&style=for-the-badge" alt="__aryanp" /></a> </p>
 
 - 🌱 I’m currently learning **Cybersecurity**
 
